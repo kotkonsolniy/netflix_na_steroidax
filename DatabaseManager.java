@@ -94,8 +94,6 @@ public class DatabaseManager {
         }
         return null;
     }
-    //
-
 
 
     // Загрузка всех фильмов из БД (с рейтингами)
